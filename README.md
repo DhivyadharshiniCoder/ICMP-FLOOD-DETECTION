@@ -66,19 +66,4 @@ https://github.com/DhivyadharshiniCoder
 📜 License
 This project is open source under the MIT License.
 
-yaml
-Copy
-Edit
 
----
-
-### ✅ Next Steps:
-
-1. Save this as `README.md` in your project folder  
-2. Make sure `imageoficmp.png` is also in the same folder  
-3. Run:
-
-```bash
-git add README.md imageoficmp.png
-git commit -m "Added README with screenshot"
-git push
